@@ -1,0 +1,13 @@
+.unit {
+  color: #53a8b6;
+  font-family: "Poppins", sans-serif;
+  text-align: center;
+  display: block;
+}
+
+.details {
+  text-align: center;
+  font-size: 16px;
+  color: #53a8b6;
+  font-family: "Poppins", sans-serif;
+}

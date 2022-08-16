@@ -1,0 +1,28 @@
+h1,
+h2,
+h3 {
+  text-align: center;
+  color: #53a8b6;
+  font-family: "Poppins", sans-serif;
+}
+
+h1 {
+  font-weight: 600;
+  font-size: 40px;
+  padding: 20px;
+}
+
+h2 {
+  font-weight: normal;
+  font-size: 24px;
+  padding-top: 20px;
+  margin: 0% auto;
+}
+
+h3 {
+  font-weight: 300;
+  font-size: 16px;
+  padding-bottom: 15px;
+  font-size: 20px;
+  text-transform: capitalize;
+}

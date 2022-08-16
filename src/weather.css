@@ -1,0 +1,11 @@
+body {
+  background-color: rgb(247, 249, 255);
+}
+
+.container {
+  background: linear-gradient(to top, #fff1eb 1%, #ace0f9 99%);
+  border-radius: 10px;
+  padding: 40px;
+  margin: 0 auto;
+  width: 800px;
+}

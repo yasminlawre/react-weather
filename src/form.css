@@ -1,0 +1,36 @@
+form {
+  display: block;
+  text-align: center;
+  font-family: "Poppins", sans-serif;
+  position: relative;
+}
+
+label {
+  color: #53a8b6;
+  padding: 10px;
+}
+
+.city-input {
+  border-radius: 5px;
+  height: 40px;
+  border: 1px;
+}
+
+.search-button {
+  margin-left: 5px;
+  border-radius: 5px;
+  background-color: #d1e4fb;
+  border: 1px;
+  padding: 8px;
+  height: 40px;
+}
+
+.current-location {
+  font-family: "Poppins", sans-serif;
+  border-radius: 5px;
+  background-color: #d1e4fb;
+  border: 1px;
+  padding: 8px;
+  margin-left: 5px;
+  height: 40px;
+}
