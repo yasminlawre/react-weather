@@ -1,5 +1,4 @@
 import Form from "./Form";
-import Headings from "./Headings";
 import Description from "./Description";
 import Footer from "./Footer";
 import "bootstrap/dist/css/bootstrap.css";
@@ -10,7 +9,6 @@ export default function App() {
     <div className="App">
       <div className="container">
         <Form />
-        <Headings />
         <Description />
         <Footer />
       </div>

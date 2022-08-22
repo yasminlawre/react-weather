@@ -1,13 +1,30 @@
-.unit {
+h1 {
+  font-weight: 600;
+  font-size: 40px;
   color: #53a8b6;
   font-family: "Poppins", sans-serif;
-  text-align: center;
-  display: block;
+  padding-top: 7px;
 }
 
-.details {
-  text-align: center;
-  font-size: 16px;
-  color: #53a8b6;
+ul {
+  list-style: none;
   font-family: "Poppins", sans-serif;
+  color: #53a8b6;
+}
+
+.headings {
+  font-family: "Poppins", sans-serif;
+  color: #53a8b6;
+}
+
+.date {
+  font-weight: normal;
+  font-size: 24px;
+  margin: 0% auto;
+}
+
+.description {
+  font-weight: normal;
+  font-size: 24px;
+  text-transform: capitalize;
 }
