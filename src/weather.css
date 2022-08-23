@@ -1,11 +1,54 @@
 body {
-  background-color: rgb(247, 249, 255);
+  font-family: "Poppins", sans-serif;
 }
 
-.container {
-  background: linear-gradient(to top, #fff1eb 1%, #ace0f9 99%);
-  border-radius: 10px;
-  padding: 40px;
-  margin: 0 auto;
-  width: 800px;
+.weather {
+  border: 1px solid #dadde1;
+  border-radius: 4px;
+  padding: 16px;
+}
+
+.weather h1 {
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 29px;
+  margin: 20px 0px 0px 0px;
+}
+
+.weather ul {
+  margin: 0;
+  padding: 0;
+}
+
+.weather li {
+  font-size: 16px;
+  line-height: 19px;
+  list-style: none;
+}
+
+.details {
+  display: flex;
+  justify-content: flex-start;
+}
+
+.weather img {
+  display: inline;
+  height: 64px;
+  width: 64px;
+  margin-right: 10px;
+}
+
+.weather .temperature {
+  font-weight: bold;
+  font-weight: 400;
+  font-size: 50px;
+  line-height: 64px;
+  height: 64px;
+  display: inline-block;
+}
+
+.weather .unit {
+  font-size: 16px;
+  margin-left: 6px;
+  line-height: 1;
 }
