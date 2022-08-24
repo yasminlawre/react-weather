@@ -31,10 +31,9 @@ body {
   justify-content: flex-start;
 }
 
-.weather img {
+.weather canvas {
+  margin-top: 5px;
   display: inline;
-  height: 64px;
-  width: 64px;
   margin-right: 10px;
 }
 
